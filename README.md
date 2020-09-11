@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Tan zhixiang 👋
 
-## I'm a Chinese work in Japan!
+## I'm a Chinese working at Japan!
 
 - 🔭 I’m currently working as an iOS developer
 - 🌱 I’m currently learning everything 🤣

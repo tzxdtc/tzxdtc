@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as an iOS developer
 - 🌱 I’m currently learning everything 🤣
 - 🏫 I can speak Chinese,Japanese and English
-- 🥅 2021 Goals: Learn Machine Learning, React and read more books📖
+- 🥅 2021 Goals: Learn Machine Learning, React, practise LeetCode problems over 200 and read more books📖
 - ⚡ Fun fact: I love to play basektball🏀 and travel🏖
 
 ### Connect with me:

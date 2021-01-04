@@ -8,7 +8,7 @@
 - 🌱 I’m currently Android development and data analytics 🤣
 - 🏫 I can speak Chinese,Japanese and English
 - 🥅 2021 Goals: Learn Machine Learning, React, practise LeetCode problems over 200 and read more books📖
-- ⚡ Fun fact: I love to play basektball🏀 and travel🏖
+- 👨🏻‍💻hobby: I love to play basektball🏀 and travel🏖
 
 ### Connect with me:
 

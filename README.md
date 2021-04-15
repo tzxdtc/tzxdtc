@@ -1,13 +1,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tzxdtc&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-### Hi there, I'm Tan zhixiang 👋
+### Hi there, I'm Tan Zhixiang 👋
 
 ## I'm a Chinese🇨🇳 working at Japan🇯🇵!
 
 - 📱 I’m currently working as an iOS developer
-- 🌱 I’m currently Android development and data analytics 🤣
+- 🌱 I’m interested in concurrency and data analytics 🤣
 - 🏫 I can speak Chinese,Japanese and English
-- 🥅 2021 Goals: Learn Machine Learning, React, practise LeetCode problems over 200 and read more books📖
+- 🥅 2021 Goals: develop both in iOS and Android, React, practise LeetCode problems over 200 and read more books📖
 - 👨🏻‍💻hobby: I love to play basektball🏀 and travel🏖
 
 ### Connect with me:

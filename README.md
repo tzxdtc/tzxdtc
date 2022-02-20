@@ -5,9 +5,8 @@
 ## I'm a Chinese🇨🇳 working at Japan🇯🇵!
 
 - 📱 I’m currently working as an iOS developer
-- 🌱 I’m interested in concurrency and data analytics 🤣
 - 🏫 I can speak Chinese,Japanese and English
-- 🥅 2021 Goals: develop both in iOS and Android, React, practise LeetCode problems over 200 and read more books📖
+- 🥅 2022 Goals: continue to develop both in iOS and Android, practise LeetCode problems over 200 and read more books📖
 - 👨🏻‍💻hobby: I love to play basektball🏀 and travel🏖
 
 ### Connect with me:

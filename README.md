@@ -39,4 +39,6 @@
 <br />
 
 [twitter]: https://twitter.com/tzxdtc10
-[linkedin]: https://www.linkedin.com/in/zhixiang-tan-0a9a8315b/
+[linkedin]: https://www.linkedin.com/in/frank-tan-0a9a8315b/
+
+

@@ -6,7 +6,6 @@
 
 - 📱 I’m currently working as an iOS developer
 - 🏫 I can speak Chinese,Japanese and English
-- 🥅 2022 Goals: continue to develop both in iOS and Android, practise LeetCode problems over 200 and read more books📖
 - 👨🏻‍💻hobby: I love to play basektball🏀 and travel🏖
 
 ### Connect with me:
